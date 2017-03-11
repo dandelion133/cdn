@@ -2,7 +2,7 @@ package com.cacheserverdeploy.deploy.entity;
 /**
  * 消费节点
  * @author qian
- *
+ *  
  */
 public class ConsumVertex {
 	
